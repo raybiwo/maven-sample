@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.biwo.sample</groupId>
+  <artifactId>sample-maven</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200629185131</lastUpdated>
+  </versioning>
+</metadata>
